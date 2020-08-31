@@ -15,12 +15,24 @@ header {
             align-items: center;
             justify-content: space-between;
             width: 100%;
-            // box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            // box-shadow: 0 4px 8px 5px rgba(0, 0, 0, 0.2);
             .logo {
-                font-family: 'Playfair Display', "Poppins";
-                font-size: 1.875rem;
-                font-weight: 700;
-                color: $blue;
+                display: flex;
+                align-items: center;
+                img {
+                    bottom: 20px;
+                    left: 0;
+                    right: 0;
+                    border-radius: 10px;
+                    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2);
+                }
+                span {
+                    font-family: 'Playfair Display', "Poppins";
+                    font-size: 1.875rem;
+                    font-weight: 700;
+                    margin-left:24px;
+                    color: $blue;
+                }
             }
             
             .navigation{

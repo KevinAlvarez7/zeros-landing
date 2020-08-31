@@ -1,5 +1,6 @@
 import React, {useRef, useEffect } from 'react'
 import { TweenMax, Power3 } from 'gsap'
+import logo from '../images/zeros-logo-no-shadow.png';
 
 
 export const Header = () => {
@@ -20,15 +21,18 @@ export const Header = () => {
             <div className="container-fluid">
                 <div className="row">
                 <div className="header-inner">
-                    <div className="logo">M.</div>
+                    <div className="logo">
+                        <img src={logo} alt="logo"/>
+                        <span>Zeros</span>
+                    </div>
                     <div className="navigation">
                     <nav>
                         <ul>
-                        <li><a href="/">About</a></li>
-                        <li><a href="/">Zero Interest</a></li>
-                        <li><a href="/">Case Studies</a></li>
-                        <li><a href="/">Resources</a></li>
-                        <li><a href="/">Students</a></li>
+                        <li><a href="/zeros-landing">Home</a></li>
+                        <li><a href="/zeros-landing">Features</a></li>
+                        {/* <li><a href="/">Case Studies</a></li> */}
+                        <li><a href="/zeros-landing">Prototype</a></li>
+                        {/* <li><a href="/">Students</a></li> */}
                         </ul>
                     </nav>
                     </div>
