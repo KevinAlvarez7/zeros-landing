@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2844c5063b00bc9308361cc9556468a9",
+    "revision": "61c4fabc8494b34bb2b5891b86673a0d",
     "url": "/zeros-landing/index.html"
   },
   {
-    "revision": "d24c7668d278c148270d",
-    "url": "/zeros-landing/static/css/main.e174cf80.chunk.css"
+    "revision": "254dfb6ba5463aca6ca5",
+    "url": "/zeros-landing/static/css/main.e90a243a.chunk.css"
   },
   {
-    "revision": "cfdd76304f1c36e9a7b6",
-    "url": "/zeros-landing/static/js/2.52338932.chunk.js"
+    "revision": "018a5ef0fec2157181b1",
+    "url": "/zeros-landing/static/js/2.45974fa3.chunk.js"
   },
   {
     "revision": "3377ffda74687e7745ec38a7bdbe5cdb",
-    "url": "/zeros-landing/static/js/2.52338932.chunk.js.LICENSE.txt"
+    "url": "/zeros-landing/static/js/2.45974fa3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d24c7668d278c148270d",
-    "url": "/zeros-landing/static/js/main.3aa02138.chunk.js"
+    "revision": "254dfb6ba5463aca6ca5",
+    "url": "/zeros-landing/static/js/main.c556a6bf.chunk.js"
   },
   {
     "revision": "83f50c39b487ea9027fa",
