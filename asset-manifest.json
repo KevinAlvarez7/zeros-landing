@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/zeros-landing/static/css/main.37eebd50.chunk.css",
+    "main.css": "/zeros-landing/static/css/main.19e71a53.chunk.css",
     "main.js": "/zeros-landing/static/js/main.041b55e3.chunk.js",
     "main.js.map": "/zeros-landing/static/js/main.041b55e3.chunk.js.map",
     "runtime-main.js": "/zeros-landing/static/js/runtime-main.0592816b.js",
@@ -8,16 +8,16 @@
     "static/js/2.ca40db96.chunk.js": "/zeros-landing/static/js/2.ca40db96.chunk.js",
     "static/js/2.ca40db96.chunk.js.map": "/zeros-landing/static/js/2.ca40db96.chunk.js.map",
     "index.html": "/zeros-landing/index.html",
-    "precache-manifest.03836fa43731c38e28d44d8813462480.js": "/zeros-landing/precache-manifest.03836fa43731c38e28d44d8813462480.js",
+    "precache-manifest.97c25e858717fdd7713bde846b4267e7.js": "/zeros-landing/precache-manifest.97c25e858717fdd7713bde846b4267e7.js",
     "service-worker.js": "/zeros-landing/service-worker.js",
-    "static/css/main.37eebd50.chunk.css.map": "/zeros-landing/static/css/main.37eebd50.chunk.css.map",
+    "static/css/main.19e71a53.chunk.css.map": "/zeros-landing/static/css/main.19e71a53.chunk.css.map",
     "static/js/2.ca40db96.chunk.js.LICENSE.txt": "/zeros-landing/static/js/2.ca40db96.chunk.js.LICENSE.txt",
     "static/media/banner-img-nonClay.png": "/zeros-landing/static/media/banner-img-nonClay.cf2ea743.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0592816b.js",
     "static/js/2.ca40db96.chunk.js",
-    "static/css/main.37eebd50.chunk.css",
+    "static/css/main.19e71a53.chunk.css",
     "static/js/main.041b55e3.chunk.js"
   ]
 }
