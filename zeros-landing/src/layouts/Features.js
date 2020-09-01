@@ -1,4 +1,13 @@
-import React from 'react'
+import React from 'react';
+import { 
+    FaArrowCircleRight, 
+    FaListAlt,
+    FaCalendarCheck,
+    FaClock, 
+    FaRocket,
+    FaFire,
+    FaFileAlt } from 'react-icons/fa';
+
 
 export const Features = () => {
     return (
@@ -7,7 +16,7 @@ export const Features = () => {
                 <div className="row">
                 <div className="features-inner">
                     <div className="features-content">
-                    <h3>We are here to provide you with the best services.</h3>
+                    <h3>Stay focused using Zeros with these features.</h3>
                     <p>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit.
                         Doloribus cupiditate magni vitae aliquam dolorem nobis facere
@@ -16,59 +25,55 @@ export const Features = () => {
                     </p>
                     <div className="btn-row">
                         <a href="/"
-                        >View All Services
-                        <img src="./images/arrow-right.svg" alt="arrow right"
-                        /></a>
+                        >View All Features
+                        <FaArrowCircleRight/></a>
                     </div>
                     </div>
                     <div className="features-list">
                     <ul>
                         <li>
-                        <img src="./images/fast-delivery.svg" alt="fast delivery" />
-                        <h5>Fast Delivery</h5>
+                        <FaListAlt/>
+                        <h5>Time-Blocking</h5>
                         <p>
                             Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                             Qui dolorum rerum vero.
                         </p>
                         </li>
                         <li>
-                        <img src="./images/0-fees.svg" alt="fast delivery" />
-                        <h5>$0 Fee's</h5>
+                        <FaCalendarCheck/>
+                        <h5>Deadlines Tracker</h5>
                         <p>
                             Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                             Qui dolorum rerum vero.
                         </p>
                         </li>
                         <li>
-                        <img src="./images/0-interest.svg" alt="fast delivery" />
-                        <h5>0% Interest</h5>
+                        <FaRocket/>
+                        <h5>Dynamic Scheduling</h5>
                         <p>
                             Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                             Qui dolorum rerum vero.
                         </p>
                         </li>
                         <li>
-                        <img src="./images/no-credit-check.svg" alt="fast delivery" />
-                        <h5>No Credit Checks</h5>
+                        <FaClock/>
+                        <h5>Time-Tracking</h5>
                         <p>
                             Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                             Qui dolorum rerum vero.
                         </p>
                         </li>
                         <li>
-                        <img src="./images/chat-support.svg" alt="fast delivery" />
-                        <h5>Chat Support</h5>
+                        <FaFire/>
+                        <h5>Streaks</h5>
                         <p>
                             Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                             Qui dolorum rerum vero.
                         </p>
                         </li>
                         <li>
-                        <img
-                            src="./images/fixed-payment-option.svg"
-                            alt="fast delivery"
-                        />
-                        <h5>Fixed Payment Option</h5>
+                        <FaFileAlt/>
+                        <h5>Time-Block Reports</h5>
                         <p>
                             Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                             Qui dolorum rerum vero.

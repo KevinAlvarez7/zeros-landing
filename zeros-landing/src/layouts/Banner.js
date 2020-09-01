@@ -1,5 +1,4 @@
 import React, {useRef, useEffect } from 'react';
-import { ReactComponent as PlaySVG } from '../images/play.svg';
 import prototype from '../images/banner-img-nonClay.png';
 import { TweenMax, Power3, TimelineLite } from 'gsap';
 
