@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "833ccc39fc9d65c3ab32955da033143a",
+    "revision": "f1ee33c06f2b12bf35e031599e8afd40",
     "url": "/zeros-landing/index.html"
   },
   {
-    "revision": "99768c28e3c5a414d49b",
-    "url": "/zeros-landing/static/css/main.2cabfbce.chunk.css"
+    "revision": "6caf9895a4c85416326c",
+    "url": "/zeros-landing/static/css/main.37eebd50.chunk.css"
   },
   {
     "revision": "5bc407897a7bbedc979a",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zeros-landing/static/js/2.ca40db96.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "99768c28e3c5a414d49b",
+    "revision": "6caf9895a4c85416326c",
     "url": "/zeros-landing/static/js/main.041b55e3.chunk.js"
   },
   {
